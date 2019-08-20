@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace myCode
+namespace network_configuration
 {
     class a_simple_net_config
     {
